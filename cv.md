@@ -9,6 +9,7 @@
 ### Education
 2018 - May 2022
 Brest State A.S. Pushkin University
+
 Economic cybernetics (mathematical methods and computer modeling in economics)
 
 ### Skill
@@ -25,7 +26,7 @@ Economic cybernetics (mathematical methods and computer modeling in economics)
 
 ### Code Sample
 
-`<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="ru">
 <head>
 	<meta charset="UTF-8">
@@ -111,4 +112,5 @@ Economic cybernetics (mathematical methods and computer modeling in economics)
 	<script src="js/jquery-3.3.1.min.js"></script>
 	<script src="js/main.js"></script>
 </body>
-</html>`
+</html>```
+
