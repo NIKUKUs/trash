@@ -1,0 +1,261 @@
+body {
+   font-size: 25px;
+   font-family: 'Open Sans', sans-serif;
+   padding: 0;
+   margin: 0;
+
+}
+
+div, p, input, button, form, span, a, ul, li {
+   box-sizing: border-box;
+} 
+
+h1, h2, h3, h4, h5, h6 {
+   margin: 0;
+   font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+   line-height: 1.8em;
+}
+.container {
+   width: 1170px;
+   margin: 0 auto;
+}
+
+.container span {
+
+   font-style: 25px;
+}
+
+.header {
+   background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(112,58,90,1) 100%);
+   padding-bottom: 50px;
+   color: #fff;
+}
+
+.blau {
+   padding-left: 1500px;
+   transition-duration: 2s;
+
+}
+.wrapper {
+   display: flex;
+   justify-content: space-between;
+   align-items:center; 
+}
+
+.photo {
+
+   width: 300px;
+}
+
+.offer {
+   width: 800px;
+}
+.title {
+   font-size: 37px;
+}
+.title span {
+   font-size: 25px;
+}
+
+.btn {
+   background: #ffd429;
+   color: black;
+   font-family: 'Montserrat', sans-serif;
+   display: block;
+   width: 233px;
+   padding: 20px 0;
+   text-align: center;
+   text-decoration: none;
+}
+
+.desktop {
+   margin-top: 65px;
+}
+
+.myself {
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+
+.section-title {
+   text-align: center;
+}
+
+.skills {
+   display: flex;
+   justify-content: space-between;
+}
+
+
+.skill {
+   width: 350px;
+   padding-top: 90px;
+}
+
+.skill-title {
+   font-size: 25px;
+   text-align: center;
+}
+.skill-text {
+   font-size: 20px;
+   margin-top: 5;
+   text-align: center;
+}
+
+.info {
+   margin-top: 50px;
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 30px;
+}
+
+.form {
+   margin-bottom: 15px;
+}
+
+.code {
+   background: #E9CCBC;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+
+.input {
+   width: 345px;
+   border: 1px solid #bbbbbb;
+   font-size: 15px;
+   font-family: 'Ubuntu', sans-serif;
+   height: 45px;
+   padding-left: 25px;
+   display: block;
+   padding-top: 5px;
+   margin: 0 auto 15px;
+}
+.btn-form {
+   font-size: 15px;
+   border: 0px;
+   width: 345px;
+   margin-top: 15px;
+   margin: 0 auto;
+}
+
+.footer {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background: #703A5A;
+}
+
+.credits {
+   color: #fff;
+
+   text-align: center;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.logo {
+
+   width: 150px;
+}
+
+.logo-footer{
+
+   width: 200px;
+
+}
+
+.rs {
+
+   color: #fff;
+}
+
+
+
+/* Responsive */
+
+
+/* 992px - 1200px */
+@media screen and (max-width: 1200px) {
+   .container {
+      width: 960px
+   }
+   .desktop {
+      width: 60%;
+   }
+
+}
+
+/* 768px - 992px */
+@media screen and (max-width: 992px) {
+   .container {
+      width: 720px
+   }
+
+   .wrapper {
+      flex-direction: column;
+   }
+   .offer {
+      width: 100%
+   }
+
+   .intro{
+      width: 100%
+   }
+   .desktop {
+      display: block;
+      width: 100%
+   }
+
+   .skills {
+      flex-direction: column;
+   }
+
+   .skill {
+      width: auto
+   }
+   .form {
+      margin-left: 0px;
+   }
+
+   .input {
+      width: 100%
+   }
+
+   .btn-form {
+      margin-left: 0px;
+      width: 100%
+   }
+
+}
+
+/* 576px - 768px */
+@media screen and (max-width: 768px) {
+   .container {
+      width: 540px
+   }
+}
+
+/* 0px - 576px */
+@media screen and (max-width: 576px) {
+    .container {
+      width: 90%;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
