@@ -9,10 +9,12 @@
 Hi, I am a Beginner Web Developer. I'm interested in the front-end direction. I studied at WAYUP courses, html academy and some others. During the training, I completed several projects using JS, CSS, HTML. I consider my strengths to be responsibility, quick learning, curiosity.
 
 ### Education
-2018 - May 2022
++ 2018 - May 2022
 Brest State A.S. Pushkin University
 
 Economic cybernetics (mathematical methods and computer modeling in economics)
++ WAYUP
++ HTML Academy
 
 ### Skill
 * JavaScript, HTML, CSS
@@ -24,7 +26,7 @@ Economic cybernetics (mathematical methods and computer modeling in economics)
 1. Belarusian - C2
 2. Russian - C2
 3. German - A2
-4. English - A1
+4. English - A1 (but I try to improve your level)
 
 ### Code Sample
 
