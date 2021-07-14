@@ -1,14 +1,15 @@
-### __Name:__           Veranika Hrechnaya
- ### __Date of birth:__  2000.12.11
- ### __City:__           Brest
- ### __Phone number:__   +375 29 290 62 22
- ### __Email:__          weronika3300@gmail.com
- ### __Discord:__        NIKUKUs#5786
- ### __Marital status:__ Single
+### __Name:__           Veranika 
+### __Date of birth:__  2000.12.11
+### __City:__           Brest
+### __Phone number:__   +375 29 290 62 22
+### __Email:__          weronika3300@gmail.com
+### __Discord:__        NIKUKUs#5786
+### __Marital status:__ Single
 
  Hi, I am a Beginner Web Developer. I'm interested in the front-end direction. I studied at WAYUP courses, html academy and some others. During the training, I completed several projects using JS, CSS, HTML. I consider my strengths to be responsibility, quick learning, curiosity.
 
- ### Education
+### Education
+
  + 2018 - May 2022
   Brest State A.S. Pushkin University
 
@@ -16,19 +17,19 @@
  + WAYUP
  + HTML Academy
 
- ### Skill
+### Skill
  * JavaScript, HTML, CSS
  * Sublime Text, Visual Studio Code
  * Figma, Photoshop
  * Microsoft Word, Exel
 
- ### Languages
+### Languages
  1. Belarusian - C2
  2. Russian - C2
  3. German - A2
  4. English - A1 (but I try to improve my level)
 
- ### Code Sample
+### Code Sample
 
  ```<html>
  	<head>
