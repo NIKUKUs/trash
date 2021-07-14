@@ -1,4 +1,4 @@
-### __Name:__           Veranika 
+### __Name:__           Veranika Hrechnaya
 ### __Date of birth:__  2000.12.11
 ### __City:__           Brest
 ### __Phone number:__   +375 29 290 62 22
